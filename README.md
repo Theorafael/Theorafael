@@ -73,7 +73,7 @@
 
 <br clear="both">
 
-<img src="https://github.com/Theorafael/Theorafael/blob/output/github-contribution-grid-snake.gif" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Theorafael/Theorafael/output/snake.svg" alt="Snake animation" />
 
 ###
 
