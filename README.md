@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Theodore Rafael and I'm a self-taught programmer from Indonesia.</h2>
+<h2 align="left">Hi 👋! My name is Theodore Rafael and I'm a self-taught programmer from Indonesia 🇮🇩</h2>
 
 ###
 
