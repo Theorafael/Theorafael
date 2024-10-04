@@ -61,7 +61,7 @@
 
 ###
 
-<p align="left">Hello World! I'm a Junior Programmer that willing to learn anything. I'm currently working on my Personal Website to improve my skills.</p>
+<p align="left">Hello World! I'm a Junior Programmer that willing to learn anything. I'm currently working on my Personal Website.</p>
 
 ###
 
