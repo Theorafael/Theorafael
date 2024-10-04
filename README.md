@@ -70,11 +70,3 @@
 
 
 ###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/raphaelt">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=u1w2g9aautepn2mjmyb97ip9u" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
