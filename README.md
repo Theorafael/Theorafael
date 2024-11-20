@@ -55,7 +55,7 @@
 
 ###
 
-<p align="left">Hello World! I'm a Junior Programmer that willing to learn anything and I'm currently working on my Personal Website.</p>
+<p align="left">Hello World! I'm a Junior Programmer and I have never-ending desire to learn and improve my Programming skills. I'm currently working on my Group Website Project</p>
 
 ###
 
