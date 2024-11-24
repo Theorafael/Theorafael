@@ -60,7 +60,7 @@
 
 ###
 
-<p align="left">Hello World! I'm a Junior Programmer and I have never-ending desire to learn and improve my Programming skills. I'm currently working on my Group Website Project</p>
+<p align="left">Junior Programmer with the. I have never-ending desire to learn and improve my Programming Language skill</p>
 
 ###
 
