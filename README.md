@@ -60,7 +60,10 @@
 
 ###
 
-<p align="left">Junior Programmer with the. I have never-ending desire to learn and improve my Programming Language skill</p>
+<p align="left">A Junior Programmer with a never-ending desire to learn and improve, focused on mastering Front-End development as my initial step into the programming world.</p>
+<br>
+<p align="left">Currently working on my Group Project</p>
+<p>Project-2-KoPap</p>
 
 ###
 
