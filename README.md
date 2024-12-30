@@ -1,4 +1,4 @@
-<h2 align="left">I'm a self-taught programmer</h2>
+<h2 align="left">I'm a self-taught Programmer</h2>
 
 ###
 
